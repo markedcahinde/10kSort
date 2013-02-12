@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1359458786 source:c:\users\coelabsa-pc\documents\code blocks\10ksort\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359460060 source:e:\10ksort\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1088612593 source:f:\10ksort\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1088612594 source:e:\files\programming\data struct exercises\10ksort\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
